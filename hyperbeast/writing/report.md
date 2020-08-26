@@ -1,0 +1,9 @@
+# Hypebeast things
+
+## Report by GoodTeam(Zijun Xia & Bailong Li) 
+
+For the final project, our group made the web site about the Hypebeast which introduce many fashion brands and show what the brand is. We also insert a lots of pictures which all download online with copyright. Since many people only know like supreme for the Hypebeast things, so we wanted to show people there are not only supreme, and tell them what is the real Hypebeast.
+
+For the web design, we used the Bootswatch frame work since it can help us save much time. On the homepage, we made a jumbotron to show the user what is our website's main point. On the top of the homepage, there is a navbar which has "Home", "Brands"("American Fashion", "Japanese Fashion", "High Street Fashion", and "Other Brands"), "Pictures", and "About". Firstly, for the "About", there is a introduction about the web designers and comments or questions part that the user can write any comments or questions to submit to us. Then, in the "Brands" part, users can choose any kinds of brands to see and there is a link under each brand which the user can click to see more pictures of that brand. Lastly, for the "Pictures" part, there are 16 pictures, and each picture represent each brand. Once the user put the cursor on the picture, the brand's name will show up, and when the user click the picture, there will show more pictures of that brand. 
+
+Basically, our website is pretty successful. We used a lot pictures and html files to build our website, and we used the code like `style="height:auto;max-width:100%;">` to make the website have a responsive layout display. Our group spent much time to learn about the search part, we found we need to use the JavaScript to code the search part. However, since the time limitation, we have not make the search part work yet. So, this is a point that our group still need to consider about in the future. 
