@@ -28,17 +28,9 @@ available in the GitHub repository. I did not have time to implement this featur
 serve src/www 4250
 http://localhost:8080/
 
-# cs103-S2018-lab10-starter
-
-Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter for Laboratory 10 in Computer Science 103.
-
 ## Introduction
 
-Please review the carefully formatted assignment sheet for this project as it
-provides more details about the steps that a computer scientist should take to
-complete this assignment. You can view this assignment sheet by visiting the
-listing of laboratories on the course web site.
+Here is my Website: HyperBeast! I created this website for web development course of Allegheny College's Computer Science Department.
 
 ## Learning
 
